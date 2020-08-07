@@ -1,10 +1,9 @@
-## Personal Blog 
+## Short Bio
 
-You can use the [editor on GitHub](https://github.com/basemkh94/bkhalaf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Telecom Engineer with +3 years solid experiance in playig with Data , optimizing KPIs, tunning parameters and opertaional Radio Frequancy planning works.
+Data sceince is my own space! I am always trying to make new intervintions like socical impact measuring by DS and business growth measurments
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Main Projects :
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
