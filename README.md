@@ -2,6 +2,7 @@
 
 Telecom Engineer with +3 years solid experiance in playig with Data , optimizing KPIs, tunning parameters and opertaional Radio Frequancy planning works.
 
+
 Data sceince is my own space! I am always trying to make new intervintions like socical impact measuring by DS and business growth measurments
 
 ### Main Projects :
